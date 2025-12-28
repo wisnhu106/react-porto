@@ -135,7 +135,7 @@ function App() {
             <div className='relative group justify-self-center'>
               <div className='absolute -inset-1 bg-gradient-to-r from-[#38BDF8] to-[#2563EB] rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000'></div>
               <div className='relative h-64 w-64 md:w-80 md:h-80 bg-[#1E293B] rounded-2xl border border-white/10 overflow-hidden'>
-                <img src="/src/img/profile.jpeg" alt=" Profile Photo" className='w-full h-full object-cover' />
+                <img src="src/img/profile.jpeg" alt=" Profile Photo" className='w-full h-full object-cover' />
               </div>
             </div>
 
